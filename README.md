@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homer
+title: Home
 ---
 
 ## This personal website is under construction.
