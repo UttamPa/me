@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Publications
 ---
 
 Here are the list of published articles:
